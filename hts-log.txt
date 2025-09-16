@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Sep 2025 23:53:28 at https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/?bcda=1-844-737-3342 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/?bcda=1-844-737-3342 -O1 "C:\My Web Sites\apple pop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/fonts/_families%3dSF+Pro%2cv1_7CSF+Pro+Icons%2cv1html.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/?bcda=1-844-737-3342)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/apple/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/mac/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/mac/image_small.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/ipad/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/ipad/image_small.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/iphone/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/iphone/image_small.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/watch/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/tv/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/music/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/links/support/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/search/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/search/image_small.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/bag/image_large.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+23:54:34	Error: 	"The requested content does not exist." (404) at link https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/globalnav/search/icon_reset_small.html (from https://twqiuwe.z30.web.core.windows.net/ioxwebifcodeinf01logicishtml/Base.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 30 links scanned, 13 files written (466667 bytes overall) [482223 bytes received at 7306 bytes/sec]
+(16 errors, 0 warnings, 0 messages)
